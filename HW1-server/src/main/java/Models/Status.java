@@ -1,11 +1,6 @@
 package Models;
 
-/**
- * @className: Status
- * @author: Bingfan Tian
- * @description: TODO
- * @date: 10/3/22 7:06 PM
- */
+
 public class Status {
     private boolean success;
     private String description;
