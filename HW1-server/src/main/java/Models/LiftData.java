@@ -1,16 +1,6 @@
 package Models;
 
-/**
- * The type Lift data.
- *
- * @projectName: SkiResortClient
- * @package: NEU.cs6650.Models
- * @className: LiftData
- * @author: Bignfan Tian
- * @description: TODO
- * @date: 9 /28/22 3:04 PM
- * @version: 1.0
- */
+
 public class LiftData {
 
     /**
